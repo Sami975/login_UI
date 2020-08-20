@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(185, 185, 185);
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 3em;
+}
+p{
+    font-size: 1.9em;
+    font-family:cursive;
+}
+svg{
+    margin-top: 2px;
+}
